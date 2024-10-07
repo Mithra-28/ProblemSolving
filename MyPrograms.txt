@@ -1,0 +1,2 @@
+Hello,This is Mithra This repository is a collection of daily coding challenges and solutions aimed at improving my problem-solving skills. Each entry includes the problem statement, my approach, and the final solution. Join me on this journey of continuous learning!
+
